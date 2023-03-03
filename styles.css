@@ -1,0 +1,13 @@
+html {
+    padding: 0;
+    margin: 0;
+}
+
+.images {
+    columns: 3 200px;
+    column-gap: 15px;
+}
+
+.images img {
+    width: 100%;
+}
